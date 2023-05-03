@@ -2,7 +2,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import './app.css';
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { useRef,useeff } from "react";
 import React from "react";
 import Headers from './components/Header';
 import Project from './components/Project';
