@@ -10,7 +10,12 @@
     align-content: center;
     border: 1px solid transparent;
     align-items: center;
+    transition: transform 0.3s ease;
     background-color: #F8F8F8
+}
+
+.custom-card:hover {
+    transform: translateY(-10px);
 }
 
 .projects {
@@ -18,6 +23,7 @@
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
+    height: 100vh;
 }
 
 .pictures {
@@ -33,5 +39,5 @@
     justify-content: space-between;
     flex-wrap: wrap;
     text-align: center;
-    
+
 }

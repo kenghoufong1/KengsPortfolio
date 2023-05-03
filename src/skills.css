@@ -1,0 +1,30 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .skills li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    list-style-type: none;
+  }
+  
+  .skills button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .skills button:hover {
+    background-color: #000;
+  }
+  
+  .skills a {
+    text-decoration: none;
+  }
