@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/UwWeek20Challenge/static/css/main.34726ef7.css",
+    "main.js": "/UwWeek20Challenge/static/js/main.0b24e1d3.js",
+    "static/media/myimage.jpg": "/UwWeek20Challenge/static/media/myimage.4659ee6cc292f27cf143.jpg",
+    "index.html": "/UwWeek20Challenge/index.html",
+    "main.34726ef7.css.map": "/UwWeek20Challenge/static/css/main.34726ef7.css.map",
+    "main.0b24e1d3.js.map": "/UwWeek20Challenge/static/js/main.0b24e1d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34726ef7.css",
+    "static/js/main.0b24e1d3.js"
+  ]
+}
