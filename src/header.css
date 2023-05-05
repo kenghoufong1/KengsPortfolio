@@ -1,0 +1,32 @@
+.circle {
+    width: 500px;
+    height: 900px;
+    border-radius: 50%;
+    background-image: url(../public/myimage.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .Header{
+    padding: 50px;
+    margin-top: 150px;
+    height:100vh ;
+  }
+  
+  .Header p{
+    font-size: 30px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .circle {
+      width: 250px;
+      height: 700px;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .circle {
+      width: 150px;
+      height: 500px;
+    }
+  }

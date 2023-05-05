@@ -1,0 +1,40 @@
+.navbar {
+    width: 100%;
+    height:150px;
+    display: flex;
+    padding: 20px;
+    /* border-style: solid; */
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 30px;
+    margin-left: 40px;
+    margin-right: 10px;
+    text-decoration: underline;
+}
+
+.nav-link:hover {
+    transform: translateY(-3px);
+}
+
+/* .ml-auto{
+    border-style: solid;
+} */
+
+.navbar-expand .navbar-collapse {
+    display: flex !important;
+    justify-content: flex-end;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.navbar.fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
