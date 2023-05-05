@@ -3,8 +3,7 @@ import React, { useRef, useEffect } from 'react';
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-const SkillCard = ({}) => {
-
+const SkillCard = ({ }) => {
   const projectref = useRef(null);
   gsap.registerPlugin(ScrollTrigger);
 
@@ -43,8 +42,10 @@ const SkillCard = ({}) => {
       <li>Sequelize</li>
       <li>MongoDB</li>
       <li>GraphQL</li>
-      <a href="../Keng's Resume.docx" download>
-        <button id='download-btn'>Download My Resume</button>
+      <a href={`${process.env.PUBLIC_URL}/kengsResume.docx`} download="kengsResume.docx">
+        <button id="download-btn">
+          Download My Resume
+        </button>
       </a>
     </div>
   );

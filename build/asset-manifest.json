@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UwWeek20Challenge/static/css/main.34726ef7.css",
+    "main.js": "/UwWeek20Challenge/static/js/main.339bcbdc.js",
+    "static/media/myimage.jpg": "/UwWeek20Challenge/static/media/myimage.4659ee6cc292f27cf143.jpg",
+    "static/media/stone background.jpg": "/UwWeek20Challenge/static/media/stone background.e8b8df3920509282d8c3.jpg",
+    "static/media/employee.png": "/UwWeek20Challenge/static/media/employee.7e86f3cde68c9127086f.png",
+    "static/media/freshg.webp": "/UwWeek20Challenge/static/media/freshg.9ff87a4b3b3f6a5447b9.webp",
+    "index.html": "/UwWeek20Challenge/index.html",
+    "main.34726ef7.css.map": "/UwWeek20Challenge/static/css/main.34726ef7.css.map",
+    "main.339bcbdc.js.map": "/UwWeek20Challenge/static/js/main.339bcbdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34726ef7.css",
+    "static/js/main.339bcbdc.js"
+  ]
+}
